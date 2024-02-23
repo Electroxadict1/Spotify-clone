@@ -1,4 +1,4 @@
 # Spotify-clone
 
 
-Fo the output do check https://spotifymjnetlify.app/
+Fo the output do check https://spotifymj.netlify.app/
